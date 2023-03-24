@@ -1,5 +1,5 @@
 ## Profile
-A big front-end engineer, currently mainly focused on cross-platform development,iOS, ReactNative, Flutter, Vue is the main direction
+_Exploration & geek enthusiast, full-stack front-end engineer, UX Designer | Currently focusing on cross-platform development with main directions in iOS, ReactNative, Flutter, and Vue | Discovering a bigger world together with you._
 
 ## Skills
 ### Languages
