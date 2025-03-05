@@ -1,6 +1,9 @@
 ## Profile
 _Exploration & geek enthusiast, full-stack front-end engineer, UX Designer | Currently focusing on cross-platform development with main directions in iOS, ReactNative, Flutter, and Vue | Discovering a bigger world together with you._
 
+I am looking for a job, do not want to work too much overtime, there are suitable emails for me
+> 正在寻找工作，不希望太多加班，有合适的可邮件我
+
 ## Skills
 ### Languages
 <img src="https://skillicons.dev/icons?i=c,cs,swift,javascript,ts,dart,python,html,css,java,regex,md,sass,bash&theme=dark&&perline=10" alt="Skills"/>
